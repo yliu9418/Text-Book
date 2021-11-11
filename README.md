@@ -1,5 +1,9 @@
-# Quantum Materials
+# Research Materials
 
+## Quantum Computing
 
-## Quantum Book
 - Picturing Quantum Processes.pdf
+
+## Natural Language Processing
+
+- Natural Language Processing with Python.pdf
