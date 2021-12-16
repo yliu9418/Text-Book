@@ -15,3 +15,15 @@
 ## Natural Language Processing
 
 - Natural Language Processing with Python.pdf
+
+## Machine Learning/Data Science Cheat sheets
+
+- Machine Learning/Data Science Interview Cheat sheets
+
+- Python Cheat Sheet
+
+- Matplotlib
+
+- Super Study Guide: Data Science Tools
+
+- Machine Learning Cheat Sheet
