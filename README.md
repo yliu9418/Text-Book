@@ -11,6 +11,8 @@
 ## Quantum Computing
 
 - Picturing Quantum Processes.pdf
+- Quantum Computation and Quantum Information.pdf
+- Quantum Computing for Computer Scientists.pdf
 
 ## Natural Language Processing
 
