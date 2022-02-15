@@ -13,6 +13,7 @@
 - Picturing Quantum Processes.pdf
 - Quantum Computation and Quantum Information.pdf
 - Quantum Computing for Computer Scientists.pdf
+- Learn Quantum Computation using Qiskit https://qiskit.org/textbook/ch-states/introduction.html 
 
 ## Natural Language Processing
 
