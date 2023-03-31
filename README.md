@@ -30,3 +30,13 @@
 - Super Study Guide: Data Science Tools
 
 - Machine Learning Cheat Sheet
+
+## Python/ Data Science
+
+- Top 50 Python Interviw Qustions
+
+- Python Quick Guide
+
+- 164 Data Science Interviw
+
+- Leetcode Solutions
