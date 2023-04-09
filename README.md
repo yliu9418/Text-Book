@@ -8,6 +8,10 @@
 
 - Machine Learning With Python.pdf
 
+- 217 Machine Learning Project with Python Code.pdf
+
+- Machine Learning Pipeline.pdf
+
 ## Quantum Computing
 
 - Picturing Quantum Processes.pdf
