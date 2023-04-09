@@ -33,10 +33,14 @@
 
 ## Python/ Data Science
 
-- Top 50 Python Interviw Qustions
+- Top 50 Python Interviw Qustions.pdf
 
-- Python Quick Guide
+- Python Quick Guide.pdf
 
-- 164 Data Science Interviw
+- 164 Data Science Interviw.pdf
 
-- Leetcode Solutions
+- Leetcode Solutions.pdf
+
+- Python Tutorial (Codes).pdf
+
+- A Hands-On Introduction to Essential Python Libraries and Frameworks.pdf
