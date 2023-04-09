@@ -18,6 +18,7 @@
 - Quantum Computation and Quantum Information.pdf
 - Quantum Computing for Computer Scientists.pdf
 - Learn Quantum Computation using Qiskit https://qiskit.org/textbook/ch-states/introduction.html 
+- Neutral Atom Quantum Computers.pdf
 
 ## Natural Language Processing
 
