@@ -37,3 +37,8 @@
 - Leetcode Solutions.pdf
 - Python Tutorial (Codes).pdf
 - A Hands-On Introduction to Essential Python Libraries and Frameworks.pdf
+
+
+## LLMs and RLHF
+
+- ChatGPT, LLMs and RLHF
