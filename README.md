@@ -20,6 +20,7 @@
 
 - Natural Language Processing with Python.pdf
 - NLPDay1.pdf
+- Top 100 NLP Questions.pdf
 
 ## Machine Learning/Data Science Cheat sheets
 
