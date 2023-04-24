@@ -1,5 +1,8 @@
 # Reading Materials
 
+## Behavioral Question
+- How to Answer the 64 Toughest Interview Questions.pdf
+
 ## Machine Learning
 
 - Basic of Linear Algebra for Machine Learning Discover the Mathematical Language of Data in Python.pdf
@@ -39,8 +42,11 @@
 - Python Tutorial (Codes).pdf
 - A Hands-On Introduction to Essential Python Libraries and Frameworks.pdf
 - Python_projects.pdf
+- Intermediate Python.pdf
+- Python_Strings.pdf
 
 
 ## LLMs and RLHF
 
 - ChatGPT, LLMs and RLHF
+
