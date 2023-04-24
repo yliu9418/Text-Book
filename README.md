@@ -37,6 +37,7 @@
 - Leetcode Solutions.pdf
 - Python Tutorial (Codes).pdf
 - A Hands-On Introduction to Essential Python Libraries and Frameworks.pdf
+- Python_projects.pdf
 
 
 ## LLMs and RLHF
