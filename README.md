@@ -18,6 +18,7 @@
 - Quantum Computing for Computer Scientists.pdf
 - Learn Quantum Computation using Qiskit https://qiskit.org/textbook/ch-states/introduction.html 
 - Neutral Atom Quantum Computers.pdf
+- A quantum engineer's guide to superconducting qubits.pdf
 
 ## Natural Language Processing
 
